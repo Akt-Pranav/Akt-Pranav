@@ -4,4 +4,3 @@ Hello, I'm Pranav Mahajan, a passionate individual with a knack for web developm
 ## Projects
 Currently, I am in the early stages of my coding journey, and I haven't undertaken any projects to showcase yet. However, stay tuned for exciting developments as I continue to build and expand my skills.
 
-##Github stats
